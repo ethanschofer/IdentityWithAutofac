@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityWithAutofac.Web", "IdentityWithAutofac.Web\IdentityWithAutofac.Web.csproj", "{F5B72F13-5E43-465C-B2C9-69636E69D1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityWithAutofac.Web.Tests", "IdentityWithAutofac.Web.Tests\IdentityWithAutofac.Web.Tests.csproj", "{10EFC1EE-8E6E-4744-9284-FC64D9270890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B72F13-5E43-465C-B2C9-69636E69D1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B72F13-5E43-465C-B2C9-69636E69D1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B72F13-5E43-465C-B2C9-69636E69D1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B72F13-5E43-465C-B2C9-69636E69D1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EFC1EE-8E6E-4744-9284-FC64D9270890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EFC1EE-8E6E-4744-9284-FC64D9270890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EFC1EE-8E6E-4744-9284-FC64D9270890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EFC1EE-8E6E-4744-9284-FC64D9270890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
